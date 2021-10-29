@@ -1,7 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.JS MDX-Bundler Blog Template
 
+- Uses [Next.js version 12](https://nextjs.org/blog/next-12) released on Ocrober 26th 2021
 - Using MDX-Bundler - [Getting Started with Next.js and MDX-Bundler](https://dipeshwagle.com/blog/use-mdx-bundler-next-js)
+    - The [data/posts](./data/posts) folder is where all the `.mdx` blog posts are located. It also has an example of import `.jsx` component into and `.mdx` file.
+
 ___
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
